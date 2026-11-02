@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-critical-flicker-fusion-frequency-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for monitoring Critical Flicker Fusion Frequency (CFFF), visual cortex temporal resolution, ascending/descending threshold hysteresis, and CNS cognitive fatigue.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
